@@ -26,7 +26,22 @@ This project combines **Android development** and **AI/ML concepts**, making it 
 - **UI:** Material Components, ConstraintLayout  
 
 ---
-
+ 
+ 
+## 🎬 App Flow Screens
+ 
+ 
+<p align="center">
+  <img src="HomePage.jpeg" width="250"/>
+  <img src="MapPage.jpeg" width="250"/>
+  <img src="mapsDetailPage.jpeg" width="250"/>
+  <img src="NavigationPage.jpeg" width="250"/>
+  <img src="Logo.jpeg" width="250"/>
+ 
+ 
+</p>
+ 
+---
 ## 📱 App Flow
 
 1. Select a dance song  
@@ -36,10 +51,6 @@ This project combines **Android development** and **AI/ML concepts**, making it 
 5. User dance is compared with reference dance  
 6. Final score and feedback are generated  
 7. Score is saved in history  
-
----
-
-## 🖼️ Screenshots
-
-_Add screenshots inside a `screenshots/` folder_
+ 
+ 
 
