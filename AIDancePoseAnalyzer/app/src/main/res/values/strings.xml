@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AIDancePoseAnalyzer</string>
+    <string name="AIDancePoseAnalyzer">AI Dance Pose Analyzer</string>
+    <string name="dance_ai_score">Dance • AI • Score</string>
+    <string name="select_dance_song">Select Dance Song</string>
+    <string name="start_dance">Start Dance</string>
+    <string name="score_history">Score History</string>
+    <string name="about_app">About App</string>
+    <string name="fit_your_full_body_inside_the_frame">Fit your full body inside the frame</string>
+    <string name="todo">TODO</string>
+    <string name="ai_is_matching_poses_frame_by_frame">AI is matching poses frame by frame</string>
+    <string name="analyzing_your_dance">Analyzing your dance…</string>
+</resources>
